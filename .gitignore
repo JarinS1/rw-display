@@ -1,0 +1,6 @@
+*.yaml
+*.yml
+secrets.*
+*.bin
+*.elf
+*.map
